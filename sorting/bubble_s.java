@@ -5,7 +5,6 @@ public class bubble_s {
         for(int i = 0; i < arr.length; i++){
             System.out.print(arr[i]+" ");
            }
-
     }
     public static void main(String str[]){
         int arr[] = {7,8,3,1,2};
@@ -15,7 +14,6 @@ public class bubble_s {
                     int tra = arr[j];
                     arr[j] = arr[j+1];
                     arr[j+1] = tra;
-
                 }
             }
         }
