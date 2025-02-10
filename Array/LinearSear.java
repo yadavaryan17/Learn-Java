@@ -1,5 +1,5 @@
 import java.util.*;
-
+// Linear Search in array
 public class LinearSear {
 
     public static void LinearSearch(int num[] , int key){
