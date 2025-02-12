@@ -1,5 +1,7 @@
+// Program how calculates maximum returns of profit.
+
 import java.util.*;
-public class ButAndSellStock {
+public class BuyAndSellStock {
 
     public static int BuyAndSellStocks(int arr[]){
         int BuyStock = Integer.MAX_VALUE;

@@ -1,3 +1,4 @@
+// Program, How calculates total area of Trapped water.
 import java.util.*;
 public class TrappedRainWater {
     public static int TrappedRainWaterr(int arr[]){
