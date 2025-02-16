@@ -29,7 +29,9 @@ public class binaryConversation {
         System.out.print("Enter number : ");
         int n = sc.nextInt();
         binaryToDecimal(n);  
-        decimalToBinary(n); 
+        decimalToBinary(n);
+        System.out.println();
+
     }
 }
 
